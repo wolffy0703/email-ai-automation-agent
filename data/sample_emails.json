@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "from": "client@example.com",
+    "subject": "Invoice for July",
+    "body": "Hello Vishal, please find attached the invoice for July. Let me know if you need any changes. Regards."
+  },
+  {
+    "id": "2",
+    "from": "support@service.com",
+    "subject": "Password reset failed",
+    "body": "Hi, I'm unable to reset my password using the link. It says token expired. Please assist."
+  },
+  {
+    "id": "3",
+    "from": "marketing@startup.com",
+    "subject": "Invitation to collaborate",
+    "body": "Hey, we loved your GitHub projects. Are you open to a collaboration on an automation project?"
+  }
+]
